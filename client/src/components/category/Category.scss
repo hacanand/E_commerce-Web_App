@@ -1,0 +1,33 @@
+.Category {
+  min-width: 280px;
+  aspect-ratio: 16/9;
+background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+      url("../../assets/catogeryposter.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 10px;
+  .category-content {
+    height: 100%; 
+     border-radius: 10px;
+    .heading {
+      color: white;
+      text-align: center;
+    }
+  }
+  .category-content:hover {
+   background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),;
+    cursor: pointer;
+    
+  }
+}
+@media screen and (max-width: 768px) {
+  .Category {
+    width: 48%;}
+}
+@media screen and (max-width: 480px) {
+  .Category {
+    width: 100%;
+  }
+}
+ 
