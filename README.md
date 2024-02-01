@@ -42,7 +42,7 @@ Your Name - anandpromax[at]gmail[dot]com
 Project Link: https://github.com/hacanand/E_commerce-Web_App.git
 
 
-https://github.com/hacanand/E_commerce-Web_App/assets/96764622/5fcb9339-d111-4d12-a7a1-19ce449ddb54
+ 
 
 
 https://github.com/hacanand/E_commerce-Web_App/assets/96764622/fb08502a-58e7-4000-801f-087ffb57064c
