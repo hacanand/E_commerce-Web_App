@@ -1,9 +1,9 @@
-## E-Commerce Website
+# E-Commerce Website
 
 This project is an e-commerce website built with React, Redux, SCSS, and Strapi.
 It is a simple, user-friendly ecommerce website that allows users to browse products, add them to their cart, and make purchases.
 
-## Features
+# Features
 
 - User Registration and Login
 - Product Browsing
@@ -40,3 +40,11 @@ Contributions, issues, and feature requests are welcome. Feel free to check issu
 
 Your Name - anandpromax[at]gmail[dot]com
 Project Link: https://github.com/hacanand/E_commerce-Web_App.git
+
+
+https://github.com/hacanand/E_commerce-Web_App/assets/96764622/5fcb9339-d111-4d12-a7a1-19ce449ddb54
+
+
+https://github.com/hacanand/E_commerce-Web_App/assets/96764622/fb08502a-58e7-4000-801f-087ffb57064c
+
+
